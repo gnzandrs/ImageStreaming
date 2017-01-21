@@ -1,0 +1,17 @@
+{
+  "name": "pubsub",
+  "version": "1.0.0",
+  "description": "pub sub server",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "author": "@gnzandrs",
+  "license": "MIT",
+  "dependencies": {
+    "axon": "^2.0.3",
+    "express": "^3.0.0",
+    "redis": "^2.6.5",
+    "underscore": "^1.8.3"
+  }
+}
